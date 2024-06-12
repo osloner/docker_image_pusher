@@ -1,1 +1,6 @@
+busybox:musl
+debian:bullseye-slim
+jenkins/jenkins:2.426.3-lts
 elasticsearch:8.14.0
+xuxueli/xxl-job-admin:2.4.1
+nacos/nacos-server:v2.3.2
