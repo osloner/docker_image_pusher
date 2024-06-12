@@ -1,2 +1,5 @@
+debian:bullseye-slim
 busybox:musl
 jenkins/jenkins:2.426.3-lts
+elasticsearch:8.14.0
+xxl-job-admin:2.4.1
