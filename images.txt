@@ -1,2 +1,2 @@
 # 1
-dslim/slim:latest
+mirror/dslim/slim:latest
