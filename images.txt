@@ -7,3 +7,4 @@ kibana:8.14.0
 xuxueli/xxl-job-admin:2.4.1
 nacos/nacos-server:v2.3.2
 #kubesphereio/nginx-ingress-controller:v1.1.0
+jenkins/inbound-agent:4.13-2
