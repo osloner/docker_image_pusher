@@ -1,3 +1,4 @@
+fluent/fluentd-kubernetes-daemonset:v1.16.1-debian-elasticsearch8-1.2
 elasticsearch:7.17.0
 kibana:7.17.0
 redis:7.0.15-alpine
