@@ -1,3 +1,4 @@
+redis:7.0.15-alpine
 busybox:latest
 busybox:musl
 debian:bullseye-slim
