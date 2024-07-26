@@ -1,3 +1,4 @@
+nginx
 goharbor/redis-photon:v2.5.3
 goharbor/harbor-exporter:v2.5.3
 redis:7.0.14-alpine
