@@ -1,3 +1,4 @@
+index.docker.io/cloudtogouser/pageplug-ce:v1.9.37
 mysql/mysql-server:5.7
 nginx
 goharbor/redis-photon:v2.5.3
