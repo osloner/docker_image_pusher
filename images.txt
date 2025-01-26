@@ -1,3 +1,8 @@
+powerjob/powerjob-mysql:5.1.0
+powerjob/powerjob-server:5.1.1
+powerjob/powerjob-worker-samples:5.1.1
+powerjob/powerjob-agent:5.1.1
+
 redis:6.2
 postgres:15
 apache/hertzbeat:v1.6.1
