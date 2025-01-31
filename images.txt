@@ -1,3 +1,4 @@
+ghcr.io/open-webui/open-webui:v0.5.5
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 
