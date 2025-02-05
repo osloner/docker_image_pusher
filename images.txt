@@ -1,3 +1,10 @@
+ghcr.io/canner/wren-bootstrap:0.1.5
+ghcr.io/canner/wren-engine:0.13.1
+ghcr.io/canner/wren-engine-ibis:0.13.1
+ghcr.io/canner/wren-ai-service:0.15.7
+qdrant/qdrant:v1.11.0
+ghcr.io/canner/wren-ui:0.20.1
+
 langgenius/dify-api:0.15.2
 langgenius/dify-web:0.15.2
 postgres:15-alpine
