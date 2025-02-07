@@ -1,3 +1,5 @@
+gpustack/gpustack:main
+
 ghcr.io/canner/wren-bootstrap:0.1.5
 ghcr.io/canner/wren-engine:0.13.1
 ghcr.io/canner/wren-engine-ibis:0.13.1
