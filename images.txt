@@ -1,9 +1,16 @@
-langfuse/langfuse-worker:3
-langfuse/langfuse:3
-clickhouse/clickhouse-server
-minio/minio
-redis:7
-postgres:15
+mysql:8.4.2
+redis:7.2.4-alpine3.19
+clickhouse/clickhouse-server:24.3.6.48-alpine
+ghcr.io/comet-ml/opik/opik-backend:${OPIK_VERSION:-latest}
+ghcr.io/comet-ml/opik/opik-python-backend:${OPIK_VERSION:-latest}
+ghcr.io/comet-ml/opik/opik-frontend:${OPIK_VERSION:-latest}
+
+#langfuse/langfuse-worker:3
+#langfuse/langfuse:3
+#clickhouse/clickhouse-server
+#minio/minio
+#redis:7
+#postgres:15
 
 ollama/ollama
 
