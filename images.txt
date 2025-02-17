@@ -18,6 +18,8 @@ langgenius/dify-api:0.15.3
 langgenius/dify-web:0.15.3
 
 gpustack/gpustack:main
+gpustack/gpustack:main-cpu
+gpustack/gpustack:main-rocm
 
 ghcr.io/canner/wren-bootstrap:0.1.5
 ghcr.io/canner/wren-engine:0.13.1
