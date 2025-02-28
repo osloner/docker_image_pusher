@@ -1,12 +1,17 @@
-calciumion/new-api:latest
-approachingai/ktransformers:0.2.1
 
-mysql:8.4.2
-redis:7.2.4-alpine3.19
-clickhouse/clickhouse-server:24.3.6.48-alpine
-ghcr.io/comet-ml/opik/opik-backend:latest
-ghcr.io/comet-ml/opik/opik-python-backend:latest
-ghcr.io/comet-ml/opik/opik-frontend:latest
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
+langgenius/dify-plugin-daemon:0.0.3-local
+
+#calciumion/new-api:latest
+#approachingai/ktransformers:0.2.1
+
+#mysql:8.4.2
+#redis:7.2.4-alpine3.19
+#clickhouse/clickhouse-server:24.3.6.48-alpine
+#ghcr.io/comet-ml/opik/opik-backend:latest
+#ghcr.io/comet-ml/opik/opik-python-backend:latest
+#ghcr.io/comet-ml/opik/opik-frontend:latest
 
 #langfuse/langfuse-worker:3
 #langfuse/langfuse:3
@@ -17,22 +22,22 @@ ghcr.io/comet-ml/opik/opik-frontend:latest
 
 ollama/ollama
 
-langgenius/dify-api:0.15.3
-langgenius/dify-web:0.15.3
+#langgenius/dify-api:0.15.3
+#langgenius/dify-web:0.15.3
 
-gpustack/gpustack:main
-gpustack/gpustack:main-cpu
+#gpustack/gpustack:main
+#gpustack/gpustack:main-cpu
 #gpustack/gpustack:main-rocm
 
-ghcr.io/canner/wren-bootstrap:0.1.5
-ghcr.io/canner/wren-engine:0.13.1
-ghcr.io/canner/wren-engine-ibis:0.13.1
-ghcr.io/canner/wren-ai-service:0.15.7
-qdrant/qdrant:v1.11.0
-ghcr.io/canner/wren-ui:0.20.1
+#ghcr.io/canner/wren-bootstrap:0.1.5
+#ghcr.io/canner/wren-engine:0.13.1
+#ghcr.io/canner/wren-engine-ibis:0.13.1
+#ghcr.io/canner/wren-ai-service:0.15.7
+#qdrant/qdrant:v1.11.0
+#ghcr.io/canner/wren-ui:0.20.1
 
-langgenius/dify-api:0.15.2
-langgenius/dify-web:0.15.2
+#langgenius/dify-api:0.15.2
+#langgenius/dify-web:0.15.2
 postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.10
