@@ -1,3 +1,4 @@
+opengauss/opengauss:7.0.0-RC1
 langgenius/dify-api:1.1.3
 langgenius/dify-web:1.1.3
 langgenius/dify-sandbox:0.2.11
