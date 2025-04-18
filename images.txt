@@ -1,3 +1,5 @@
+metersphere/metersphere-ce-allinone:v3.6.2-lts
+
 langgenius/dify-api:1.2.0
 langgenius/dify-api:1.2.0
 langgenius/dify-web:1.2.0
