@@ -1,5 +1,5 @@
-apache/hertzbeat:v1.7.0
-apache/hertzbeat-collector:v1.7.0
+apache/hertzbeat:1.7.0
+apache/hertzbeat-collector:1.7.0
 
 metersphere/metersphere-ce-allinone:v3.6.2-lts
 
