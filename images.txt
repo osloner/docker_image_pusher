@@ -1,3 +1,6 @@
+apache/hertzbeat:v1.7.0
+apache/hertzbeat-collector:v1.7.0
+
 metersphere/metersphere-ce-allinone:v3.6.2-lts
 
 langgenius/dify-api:1.2.0
@@ -89,8 +92,8 @@ powerjob/powerjob-agent:v5.1.1
 
 redis:6.2
 postgres:15
-apache/hertzbeat:v1.6.1
-apache/hertzbeat-collector:v1.6.1
+#apache/hertzbeat:v1.6.1
+#apache/hertzbeat-collector:v1.6.1
 victoriametrics/victoria-metrics:v1.95.1
 
 
