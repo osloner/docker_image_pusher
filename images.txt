@@ -1,11 +1,16 @@
+langgenius/dify-api:1.4.1
+langgenius/dify-web:1.4.1
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.1.1-local
+vastdata/vastbase-vector
+
 apache/hertzbeat:1.7.0
 apache/hertzbeat-collector:1.7.0
 
 metersphere/metersphere-ce-allinone:v3.6.2-lts
 
-langgenius/dify-api:1.2.0
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
+#langgenius/dify-api:1.2.0
+#langgenius/dify-web:1.2.0
 langgenius/dify-plugin-daemon:0.0.7-local
 oceanbase/oceanbase-ce:4.3.5.1-101000042025031818
 
