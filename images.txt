@@ -1,13 +1,13 @@
 jenkins/inbound-agent:latest-jdk17
 
-docker.n8n.io/n8nio/n8n:1.95.2
+#docker.n8n.io/n8nio/n8n:1.95.2
 docker.n8n.io/n8nio/n8n:latest
 
 langgenius/dify-api:1.4.1
 langgenius/dify-web:1.4.1
 langgenius/dify-sandbox:0.2.12
 langgenius/dify-plugin-daemon:0.1.1-local
-vastdata/vastbase-vector
+#vastdata/vastbase-vector
 
 apache/hertzbeat:1.7.0
 apache/hertzbeat-collector:1.7.0
