@@ -1,3 +1,5 @@
+gpustack/gpustack:main
+
 langgenius/dify-api:1.5.0
 langgenius/dify-web:1.5.0
 langgenius/dify-plugin-daemon:0.1.2-local
@@ -57,7 +59,7 @@ ollama/ollama
 #langgenius/dify-api:0.15.3
 #langgenius/dify-web:0.15.3
 
-#gpustack/gpustack:main
+gpustack/gpustack:main
 #gpustack/gpustack:main-cpu
 #gpustack/gpustack:main-rocm
 
