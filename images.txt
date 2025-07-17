@@ -1,12 +1,19 @@
-mysql:5.7
+# Bitnami Images
+bitnami/mysql:5.7.43
+bitnami/redis:6.2.16
+bitnami/redis:7.4.3
 
+# Official Images
+mysql:5.7.43
+redis:6.2.16
+redis:7.4.3
+
+# Nacos
 nacos/nacos-server:v3.0.1
 nacos/nacos-peer-finder-plugin:1.1
 
-redis:6
-redis:7
-
+# Rocketmq
 apache/rocketmq:5.3.2
-apacherocketmq/rocketmq-dashboard:2.0.0
+apacherocketmq/rocketmq-dashboard:2.0.1
 
 xuxueli/xxl-job-admin:3.1.1
