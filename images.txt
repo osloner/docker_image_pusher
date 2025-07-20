@@ -8,6 +8,8 @@ mysql:5.7.43
 redis:6.2.16
 redis:7.4.3
 
+hengyunabc/arthas:latest
+
 # Nacos
 nacos/nacos-server:v3.0.1
 nacos/nacos-peer-finder-plugin:1.1
