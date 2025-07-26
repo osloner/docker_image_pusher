@@ -40,25 +40,12 @@ bitnami/mysql:8.4.5
 bitnami/redis:6.2.16
 bitnami/redis:7.4.3
 
-# Bitnami Images by Dify
-bitnami/nginx:1.29.0
-bitnami/etcd:3.6.3
-bitnami/minio:2025.7.23
-bitnami/elasticsearch:8.14.3
-bitnami/kibana:8.14.3
-bitnami/opensearch:latest
-bitnami/opensearch-dashboards:latest
-
 # Official Images
 postgres:15.10
 mysql:5.7.43
 mysql:8.4.5
 redis:6.2.16
 redis:7.4.3
-
-# Official Images by Dify
-nginx:1.29.0
-quay.io/coreos/etcd:v3.6.3
 
 # arthas
 hengyunabc/arthas:latest
