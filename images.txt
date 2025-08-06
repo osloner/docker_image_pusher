@@ -1,3 +1,5 @@
+zookeeper:3.9.3
+
 canal/canal-server:v1.1.8
 canal/canal-admin:v1.1.8
 apache/kafka:3.9.1
