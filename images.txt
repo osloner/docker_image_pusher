@@ -1,6 +1,6 @@
 bitnami/zookeeper:3.9.3
 bitnami/kafka:3.9.0
-redpandadata/console:v3.1.3
+kafbat/kafka-ui:main
 
 zookeeper:3.9.3
 
