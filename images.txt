@@ -1,3 +1,7 @@
+canal/canal-server:v1.1.8
+canal/canal-admin:v1.1.8
+apache/kafka:3.9.1
+
 # Dify
 langgenius/dify-api:1.7.0
 langgenius/dify-api:1.7.0
