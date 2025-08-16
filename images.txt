@@ -1,6 +1,8 @@
+linuxserver/openssh-server:latest
+linuxserver/mods:openssh-server-ssh-tunnel
+
 bitnami/zookeeper:3.9.3
 bitnami/kafka:3.9.0
-kafbat/kafka-ui:main
 
 zookeeper:3.9.3
 
