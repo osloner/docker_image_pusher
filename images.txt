@@ -1,3 +1,5 @@
+kestra/kestra:v0.23.12
+
 apache/hertzbeat:1.7.2
 apache/hertzbeat-collector:1.7.2
 
