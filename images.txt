@@ -1,7 +1,7 @@
-
 postgres:15
 victoriametrics/victoria-metrics:v1.95.1
 apache/hertzbeat:1.8.0
+apache/hertzbeat-collector:1.8.0
 
 ollama/ollama:latest
 
